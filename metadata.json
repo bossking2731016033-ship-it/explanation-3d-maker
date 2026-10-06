@@ -1,0 +1,7 @@
+{
+  "name": "Explainer3D",
+  "description": "Generate engaging 3D-style explanation videos from any topic using Gemini AI, customizable voice narration, and animated storyboard scenes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
